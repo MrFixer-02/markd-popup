@@ -18,9 +18,9 @@ Your saves follow you to every device — no setup, nothing to maintain.
 
 <br/>
 
-[![Download for Chrome](https://img.shields.io/badge/⬇%20Download%20for%20Chrome-2dd4bf?style=for-the-badge&logoColor=050608)](downloads/markd-chrome.zip)
-&nbsp;
-[![Download for Firefox](https://img.shields.io/badge/⬇%20Download%20for%20Firefox-3fb950?style=for-the-badge&logoColor=050608)](downloads/markd-firefox.zip)
+![status: pre-release](https://img.shields.io/badge/status-pre--release-f59e0b?style=for-the-badge)
+
+_Not on the stores yet — **downloads land here at launch.** ⭐ Star the repo to catch it._
 
 </div>
 
@@ -53,7 +53,9 @@ Bookmarks pile up and you never find them again. Tabs sit open for weeks. **/mar
 
 ## Install — Chrome / Edge / Brave
 
-1. Download **[markd-chrome.zip](downloads/markd-chrome.zip)**
+> 🚧 **Pre-release** — these are the steps; the download link goes live at launch.
+
+1. Download **`markd-chrome.zip`** *(coming at launch)*
 2. Unzip to a folder (e.g. `markd-chrome`)
 3. Open `chrome://extensions`
 4. Turn on **Developer mode** (top right)
@@ -64,7 +66,9 @@ Bookmarks pile up and you never find them again. Tabs sit open for weeks. **/mar
 
 ## Install — Firefox
 
-1. Download **[markd-firefox.zip](downloads/markd-firefox.zip)**
+> 🚧 **Pre-release** — download link goes live at launch.
+
+1. Download **`markd-firefox.zip`** *(coming at launch)*
 2. Unzip
 3. Open `about:debugging#/runtime/this-firefox`
 4. Click **Load Temporary Add-on…** → pick `manifest.json` inside the folder
